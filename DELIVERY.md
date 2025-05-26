@@ -13,7 +13,7 @@
 
 ### **🔗 GitHub Repo Linki**
 
-\[GitHub projenizin linkini buraya yazınız\]
+https://github.com/halitbgc/university-library-api
 
 ---
 
@@ -45,8 +45,6 @@ Bu proje, üniversiteye ait çevrimiçi bir kütüphane sistemine yönelik bir R
 ---
 
 ## 🧪 **Test Notları (Opsiyonel)**
-
-Swagger Editor üzerinden test ettiğiniz örnek istek/yanıtları özetleyebilirsiniz:
 
 \- GET /books → Tüm kitaplar JSON listesi olarak döner.  
 \- POST /students → Gönderilen örnek \`Student\` verisi ile öğrenci eklenir.  
